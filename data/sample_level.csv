@@ -1,0 +1,7 @@
+org_id,level_value,level_formula,level_name
+driscolls,0,Ranch_ID+Variety_ID+P_Start_Yr,Group
+driscolls,1,Ranch_ID+Variety_ID,RanchZone
+driscolls,2,Ranch_ID,Ranch
+driscolls,3,MicroClimate,MicroClimate
+driscolls,4,PA_ID,ProducingArea
+driscolls,5,Division,Division

@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Thank you for uploading your csv!</h1>
+    <h2>The imported AREA table looks like this:</h2>
+        <p>
+            {{df|safe}}
+        </p>
+{% endblock %}

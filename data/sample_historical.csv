@@ -1,0 +1,20 @@
+"Ranch_ID","Ranch","PA_ID","ProducingArea","MicroClimate","Variety_ID","Common_Name","Field_Type","Plant_Type","P_Start_Yr","P_End_Yr","Group","SumOfAcres"
+20,"Stone BJF",3,"Santa Maria","EAST","V6I","AMADO","CONV","FRIGO",2012,2012,"20V6I2012",2.5
+92,"La Mula De",3,"Santa Maria","EAST","V6I","AMADO","CONV","FRIGO",2012,2012,"92V6I2012",3.63
+171,"Mesa Rd.",3,"Santa Maria","EAST","V6I","AMADO","CONV","FRIGO",2012,2012,"171V6I2012",6.88
+172,"Rancho Uno",3,"Santa Maria","WEST","V6I","AMADO","CONV","FRIGO",2012,2012,"172V6I2012",5.6
+173,"Main St.",3,"Santa Maria","WEST","V6I","AMADO","CONV","FRIGO",2012,2012,"173V6I2012",19.66
+1079,"Caballo",3,"Santa Maria","EAST","V6I","AMADO","CONV","FRIGO",2012,2012,"1079V6I2012",6.1
+1222,"Marti (2Step)",3,"Santa Maria","EAST","V6I","AMADO","CONV","FRIGO",2012,2012,"1222V6I2012",4.89
+1341,"Stone (Trad)",3,"Santa Maria","EAST","V6I","AMADO","CONV","FRIGO",2012,2012,"1341V6I2012",10.31
+2216,"Bognuda",3,"Santa Maria","EAST","V6I","AMADO","CONV","FRIGO",2012,2012,"2216V6I2012",10.96
+2446,"Blosser (2Step)",3,"Santa Maria","CENTRAL","V6I","AMADO","CONV","FRIGO",2012,2012,"2446V6I2012",3.25
+2643,"Los Alamos",3,"Santa Maria","EAST","V6I","AMADO","CONV","FRIGO",2012,2012,"2643V6I2012",15.25
+2648,"Duke",3,"Santa Maria","EAST","V6I","AMADO","CONV","FRIGO",2012,2012,"2648V6I2012",6.57
+2758,"El Rio",3,"Santa Maria","WEST","V6I","AMADO","CONV","FRIGO",2012,2012,"2758V6I2012",5.7
+2775,"Stone RBF",3,"Santa Maria","EAST","V6I","AMADO","CONV","FRIGO",2012,2012,"2775V6I2012",3.67
+5279,"Rio West",3,"Santa Maria","WEST","V6I","AMADO","CONV","FRIGO",2012,2012,"5279V6I2012",2.13
+5280,"White Hills",3,"Santa Maria","EAST","V6I","AMADO","CONV","FRIGO",2012,2012,"5280V6I2012",6.29
+20,"Stone BJF",3,"Santa Maria","EAST","V6I","AMADO","CONV","FRIGO",2013,2013,"20V6I2013",6
+1341,"Stone (Trad)",3,"Santa Maria","EAST","V6I","AMADO","CONV","FRIGO",2013,2013,"1341V6I2013",25.94
+2216,"Bognuda",3,"Santa Maria","EAST","V6I","AMADO","CONV","FRIGO",2013,2013,"2216V6I2013",26.34

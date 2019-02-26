@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Flask File Uploader</h1>
+    <h3>Please upload your farm data in .csv format</h3>
+    <hr>
+    <form action="" method="post" enctype="multipart/form-data">
+        {{ form.hidden_tag() }}
+        <p>Select level table .csv file (e.g. ./data/sample_level.csv)</p>
+        <p>
+            {{form.file_level(size=32)}}
+        </p>
+        <hr>
+        <p>Select historical yield .csv file (e.g. ./data/sample_historical.csv)</p>
+        <p>
+            {{ form.file_histyield(size=32) }}
+        </p>
+        <hr>
+        <p>
+            {{ form.submit() }}
+        </p>
+    </form>
+{% endblock %}
